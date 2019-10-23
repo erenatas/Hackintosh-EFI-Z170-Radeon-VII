@@ -1,8 +1,6 @@
 # Hackintosh EFI for PC
 
 - Tested in Catalina 10.15.
-- Everything works (for me).
-
 
 ## Specs
 - **Motherboard**: MSI Z170A Gaming M5
@@ -19,6 +17,9 @@
 
 ## SMBIOS
 Has been set to iMacPro1,1 due to Rsdeon VII fully utilized only in iMac Pro's SMBIOS.
+
+## Bugs
+1. Audio through DP works at the beginning, then it starts getting roboting and does not work correctly. Meanwhile headphones work.
 
 ## TODO
 Thermals - FakeSMC sensors, etc.
